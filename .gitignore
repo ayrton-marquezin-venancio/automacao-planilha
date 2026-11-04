@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Testes e ferramentas
+/tests/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Configurações e segredos locais
+.env
+.env.*
+!.env.example
+
+# Resultados gerados pela automação
+/saidas/*
+!/saidas/Planilha Versão 1 - 2026-11-04/
+/saidas/Planilha Versão 1 - 2026-11-04/*
+!/saidas/Planilha Versão 1 - 2026-11-04/equipamentos_atualizados.xlsx
+!/saidas/Planilha Versão 1 - 2026-11-04/equipamentos_atualizados_20261104T033307402854Z.xlsx
+*.log
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,343 @@
+﻿id_equipamento;nome_equipamento;categoria;setor;situacao
+EQP0001;Osciloscópio portátil Tektronix - modelo OSC-117;Instrumento de medição;Elétrica;Disponível
+EQP0002;Dock station USB-C Lenovo - modelo DOC-116;Informática;TI;Em uso
+EQP0003;Soprador térmico Steinel - modelo SOP-115;Ferramenta elétrica;Manutenção;Em uso
+EQP0004;Torquímetro de estalo Gedore - modelo TRQ-119;Ferramenta manual;Manutenção;Em uso
+EQP0005;Serra circular Makita - modelo SRC-114;Ferramenta elétrica;Manutenção;Disponível
+EQP0006;Jogo de chaves combinadas Gedore - modelo CHV-119;Ferramenta manual;Manutenção;Em uso
+EQP0007;Impressora laser HP LaserJet - modelo IMP-113;Informática;TI;Disponível
+EQP0008;Notebook corporativo Lenovo ThinkPad - modelo NTB-112;Informática;TI;Em uso
+EQP0009;Caixa acústica para apresentação Yamaha - modelo CAX-117;Equipamento audiovisual;Comunicação;Disponível
+EQP0010;Encadernadora espiral Lassane - modelo ENC-116;Equipamento de escritório;Administrativo;Disponível
+EQP0011;Impressora de etiquetas Brother P-touch - modelo ETQ-113;Equipamento de escritório;Administrativo;Em uso
+EQP0012;Furadeira de impacto Stanley - modelo FUR-114;Ferramenta elétrica;Manutenção;Disponível
+EQP0013;Rádio comunicador profissional Intelbras - modelo RAD-115;Equipamento de segurança;Segurança do Trabalho;Disponível
+EQP0014;Monitor LED 24 polegadas Samsung - modelo MON-113;Informática;TI;Disponível
+EQP0015;Encadernadora espiral Mares - modelo ENC-112;Equipamento de escritório;Administrativo;Em uso
+EQP0016;Microfone de mesa USB Jabra - modelo MIC-110;Equipamento audiovisual;Comunicação;Em uso
+EQP0017;Ponto de acesso Wi-Fi Ubiquiti UniFi - modelo APW-113;Infraestrutura de rede;TI;Em uso
+EQP0018;Multímetro digital Minipa - modelo MUL-120;Instrumento de medição;Elétrica;Em uso
+EQP0019;Lixadeira orbital DeWalt - modelo LIX-115;Ferramenta elétrica;Manutenção;Em uso
+EQP0020;Impressora laser Canon i-SENSYS - modelo IMP-112;Informática;TI;Disponível
+EQP0021;Caixa acústica para apresentação Yamaha - modelo CAX-111;Equipamento audiovisual;Comunicação;Disponível
+EQP0022;Rádio comunicador profissional Intelbras - modelo RAD-121;Equipamento de segurança;Segurança do Trabalho;Disponível
+EQP0023;Ponto de acesso Wi-Fi Aruba Instant On - modelo APW-115;Infraestrutura de rede;TI;Em uso
+EQP0024;Câmera de videoconferência Poly - modelo CAM-120;Equipamento audiovisual;Comunicação;Disponível
+EQP0025;Lixadeira orbital DeWalt - modelo LIX-112;Ferramenta elétrica;Manutenção;Disponível
+EQP0026;Servidor de armazenamento NAS QNAP - modelo NAS-120;Infraestrutura de rede;TI;Em uso
+EQP0027;Fragmentadora de papel Menno - modelo FRG-111;Equipamento de escritório;Administrativo;Disponível
+EQP0028;Multímetro digital Fluke - modelo MUL-113;Instrumento de medição;Elétrica;Em uso
+EQP0029;Rádio comunicador profissional Hytera - modelo RAD-120;Equipamento de segurança;Segurança do Trabalho;Em uso
+EQP0030;Martelete perfurador Makita - modelo MRT-117;Ferramenta elétrica;Manutenção;Disponível
+EQP0031;Esmerilhadeira angular Bosch - modelo ESM-111;Ferramenta elétrica;Manutenção;Disponível
+EQP0032;Scanner de documentos Canon imageFORMULA - modelo SCN-118;Informática;TI;Em manutenção
+EQP0033;Impressora de etiquetas Brother P-touch - modelo ETQ-116;Equipamento de escritório;Administrativo;Em uso
+EQP0034;Conjunto de soquetes Tramontina PRO - modelo SOQ-114;Ferramenta manual;Manutenção;Disponível
+EQP0035;Servidor de armazenamento NAS Asustor - modelo NAS-112;Infraestrutura de rede;TI;Em uso
+EQP0036;Parafusadeira a bateria Stanley - modelo PAR-110;Ferramenta elétrica;Manutenção;Disponível
+EQP0037;Multímetro digital Minipa - modelo MUL-111;Instrumento de medição;Elétrica;Em manutenção
+EQP0038;Parafusadeira a bateria Makita - modelo PAR-112;Ferramenta elétrica;Manutenção;Em uso
+EQP0039;Fragmentadora de papel Fellowes - modelo FRG-116;Equipamento de escritório;Administrativo;Em uso
+EQP0040;Alicate universal isolado Knipex - modelo ALI-119;Ferramenta manual;Manutenção;Em manutenção
+EQP0041;Chave de catraca reversível Gedore - modelo CAT-119;Ferramenta manual;Manutenção;Disponível
+EQP0042;Servidor de armazenamento NAS Asustor - modelo NAS-121;Infraestrutura de rede;TI;Disponível
+EQP0043;Alicate amperímetro Fluke - modelo AMP-116;Instrumento de medição;Elétrica;Em uso
+EQP0044;Detector de tensão Hikari - modelo DET-115;Instrumento de medição;Elétrica;Disponível
+EQP0045;Servidor de armazenamento NAS Asustor - modelo NAS-118;Infraestrutura de rede;TI;Em uso
+EQP0046;Impressora laser Canon i-SENSYS - modelo IMP-121;Informática;TI;Em manutenção
+EQP0047;Fragmentadora de papel Fellowes - modelo FRG-113;Equipamento de escritório;Administrativo;Em uso
+EQP0048;Scanner de documentos Fujitsu fi - modelo SCN-116;Informática;TI;Em uso
+EQP0049;Alicate amperímetro Fluke - modelo AMP-113;Instrumento de medição;Elétrica;Em uso
+EQP0050;Câmera de videoconferência Logitech - modelo CAM-113;Equipamento audiovisual;Comunicação;Disponível
+EQP0051;Microfone de mesa USB Logitech - modelo MIC-114;Equipamento audiovisual;Comunicação;Em uso
+EQP0052;Medidor de nível sonoro Minipa - modelo SOM-116;Equipamento de segurança;Segurança do Trabalho;Disponível
+EQP0053;Servidor de armazenamento NAS QNAP - modelo NAS-117;Infraestrutura de rede;TI;Em uso
+EQP0054;Parafusadeira a bateria Stanley - modelo PAR-118;Ferramenta elétrica;Manutenção;Disponível
+EQP0055;Roteador corporativo MikroTik - modelo RTR-110;Infraestrutura de rede;TI;Disponível
+EQP0056;Conjunto de soquetes Gedore - modelo SOQ-119;Ferramenta manual;Manutenção;Em uso
+EQP0057;Multímetro digital Fluke - modelo MUL-110;Instrumento de medição;Elétrica;Em uso
+EQP0058;Rádio comunicador profissional Motorola - modelo RAD-119;Equipamento de segurança;Segurança do Trabalho;Em uso
+EQP0059;Scanner de documentos Epson WorkForce - modelo SCN-111;Informática;TI;Em uso
+EQP0060;Scanner de documentos Epson WorkForce - modelo SCN-120;Informática;TI;Disponível
+EQP0061;Osciloscópio portátil Keysight - modelo OSC-110;Instrumento de medição;Elétrica;Em uso
+EQP0062;Webcam para videoconferência Microsoft - modelo WBC-120;Informática;TI;Disponível
+EQP0063;Serra circular Bosch - modelo SRC-113;Ferramenta elétrica;Manutenção;Disponível
+EQP0064;Lixadeira orbital DeWalt - modelo LIX-121;Ferramenta elétrica;Manutenção;Disponível
+EQP0065;Dock station USB-C Lenovo - modelo DOC-112;Informática;TI;Disponível
+EQP0066;Roteador corporativo TP-Link Omada - modelo RTR-115;Infraestrutura de rede;TI;Disponível
+EQP0067;Câmera de videoconferência Jabra - modelo CAM-112;Equipamento audiovisual;Comunicação;Em uso
+EQP0068;Alicate universal isolado Gedore - modelo ALI-121;Ferramenta manual;Manutenção;Em uso
+EQP0069;Esmerilhadeira angular Makita - modelo ESM-112;Ferramenta elétrica;Manutenção;Disponível
+EQP0070;Encadernadora espiral Mares - modelo ENC-115;Equipamento de escritório;Administrativo;Disponível
+EQP0071;Lixadeira orbital Bosch - modelo LIX-119;Ferramenta elétrica;Manutenção;Disponível
+EQP0072;Scanner de documentos Canon imageFORMULA - modelo SCN-115;Informática;TI;Em uso
+EQP0073;Serra circular DeWalt - modelo SRC-118;Ferramenta elétrica;Manutenção;Disponível
+EQP0074;Caixa acústica para apresentação Frahm - modelo CAX-115;Equipamento audiovisual;Comunicação;Em uso
+EQP0075;Microfone de mesa USB Jabra - modelo MIC-119;Equipamento audiovisual;Comunicação;Em uso
+EQP0076;Firewall de rede Sophos - modelo FWL-114;Infraestrutura de rede;TI;Em uso
+EQP0077;Nobreak senoidal SMS - modelo NOB-110;Informática;TI;Disponível
+EQP0078;Lixadeira orbital Makita - modelo LIX-120;Ferramenta elétrica;Manutenção;Disponível
+EQP0079;Dock station USB-C UGREEN - modelo DOC-118;Informática;TI;Em uso
+EQP0080;Monitor LED 27 polegadas LG - modelo M27-112;Informática;TI;Em uso
+EQP0081;Osciloscópio portátil Tektronix - modelo OSC-114;Instrumento de medição;Elétrica;Disponível
+EQP0082;Detector portátil de gases Dräger - modelo GAS-112;Equipamento de segurança;Segurança do Trabalho;Em manutenção
+EQP0083;Serra tico-tico Bosch - modelo TIC-119;Ferramenta elétrica;Manutenção;Disponível
+EQP0084;Ponto de acesso Wi-Fi TP-Link Omada - modelo APW-111;Infraestrutura de rede;TI;Em uso
+EQP0085;Ponto de acesso Wi-Fi Ubiquiti UniFi - modelo APW-116;Infraestrutura de rede;TI;Em uso
+EQP0086;Jogo de chaves combinadas Sata - modelo CHV-121;Ferramenta manual;Manutenção;Em uso
+EQP0087;Serra circular DeWalt - modelo SRC-121;Ferramenta elétrica;Manutenção;Em uso
+EQP0088;Serra circular DeWalt - modelo SRC-112;Ferramenta elétrica;Manutenção;Em uso
+EQP0089;Alicate amperímetro Hikari - modelo AMP-112;Instrumento de medição;Elétrica;Em manutenção
+EQP0090;Computador desktop Lenovo ThinkCentre - modelo DTP-120;Informática;TI;Em uso
+EQP0091;Serra circular Bosch - modelo SRC-116;Ferramenta elétrica;Manutenção;Disponível
+EQP0092;Termômetro infravermelho Minipa - modelo TIR-114;Instrumento de medição;Elétrica;Em uso
+EQP0093;Encadernadora espiral Menno - modelo ENC-114;Equipamento de escritório;Administrativo;Em manutenção
+EQP0094;Termômetro infravermelho Fluke - modelo TIR-119;Instrumento de medição;Elétrica;Em uso
+EQP0095;Jogo de chaves combinadas Sata - modelo CHV-118;Ferramenta manual;Manutenção;Disponível
+EQP0096;Conjunto de soquetes Sata - modelo SOQ-118;Ferramenta manual;Manutenção;Disponível
+EQP0097;Estação de trabalho Lenovo ThinkStation - modelo WKS-112;Informática;TI;Em uso
+EQP0098;Caixa acústica para apresentação Yamaha - modelo CAX-120;Equipamento audiovisual;Comunicação;Disponível
+EQP0099;Esmerilhadeira angular DeWalt - modelo ESM-121;Ferramenta elétrica;Manutenção;Em uso
+EQP0100;Torquímetro de estalo Sata - modelo TRQ-112;Ferramenta manual;Manutenção;Disponível
+EQP0101;Chave de catraca reversível Sata - modelo CAT-115;Ferramenta manual;Manutenção;Disponível
+EQP0102;Notebook corporativo HP ProBook - modelo NTB-117;Informática;TI;Disponível
+EQP0103;Osciloscópio portátil Hantek - modelo OSC-112;Instrumento de medição;Elétrica;Em uso
+EQP0104;Torquímetro de estalo Tramontina PRO - modelo TRQ-111;Ferramenta manual;Manutenção;Em uso
+EQP0105;Nobreak senoidal SMS - modelo NOB-116;Informática;TI;Disponível
+EQP0106;Monitor LED 24 polegadas Dell P Series - modelo MON-115;Informática;TI;Disponível
+EQP0107;Furadeira de impacto DeWalt - modelo FUR-113;Ferramenta elétrica;Manutenção;Em uso
+EQP0108;Impressora laser HP LaserJet - modelo IMP-119;Informática;TI;Em uso
+EQP0109;Câmera de videoconferência Poly - modelo CAM-117;Equipamento audiovisual;Comunicação;Disponível
+EQP0110;Alicate amperímetro Fluke - modelo AMP-119;Instrumento de medição;Elétrica;Disponível
+EQP0111;Conjunto de soquetes Tramontina PRO - modelo SOQ-111;Ferramenta manual;Manutenção;Em uso
+EQP0112;Nobreak senoidal Intelbras - modelo NOB-121;Informática;TI;Em uso
+EQP0113;Estação de trabalho Lenovo ThinkStation - modelo WKS-115;Informática;TI;Disponível
+EQP0114;Monitor LED 24 polegadas AOC - modelo MON-110;Informática;TI;Disponível
+EQP0115;Martelete perfurador DeWalt - modelo MRT-118;Ferramenta elétrica;Manutenção;Em uso
+EQP0116;Estação de trabalho HP Z - modelo WKS-111;Informática;TI;Em uso
+EQP0117;Alicate amperímetro Minipa - modelo AMP-117;Instrumento de medição;Elétrica;Disponível
+EQP0118;Alicate amperímetro Fluke - modelo AMP-110;Instrumento de medição;Elétrica;Disponível
+EQP0119;Servidor de armazenamento NAS Synology - modelo NAS-116;Infraestrutura de rede;TI;Disponível
+EQP0120;Detector portátil de gases Dräger - modelo GAS-115;Equipamento de segurança;Segurança do Trabalho;Em uso
+EQP0121;Medidor de nível sonoro Instrutherm - modelo SOM-120;Equipamento de segurança;Segurança do Trabalho;Disponível
+EQP0122;Câmera de videoconferência Jabra - modelo CAM-115;Equipamento audiovisual;Comunicação;Em uso
+EQP0123;Termômetro infravermelho Fluke - modelo TIR-116;Instrumento de medição;Elétrica;Em uso
+EQP0124;Câmera termográfica de inspeção Fluke - modelo TER-111;Equipamento de segurança;Segurança do Trabalho;Disponível
+EQP0125;Chave de catraca reversível Tramontina PRO - modelo CAT-114;Ferramenta manual;Manutenção;Disponível
+EQP0126;Roteador corporativo Cisco - modelo RTR-114;Infraestrutura de rede;TI;Em uso
+EQP0127;Plastificadora de documentos Aurora - modelo PLA-115;Equipamento de escritório;Administrativo;Em uso
+EQP0128;Lixadeira orbital DeWalt - modelo LIX-118;Ferramenta elétrica;Manutenção;Em uso
+EQP0129;Alicate universal isolado Gedore - modelo ALI-115;Ferramenta manual;Manutenção;Em uso
+EQP0130;Firewall de rede Cisco Meraki - modelo FWL-115;Infraestrutura de rede;TI;Disponível
+EQP0131;Caixa acústica para apresentação Frahm - modelo CAX-118;Equipamento audiovisual;Comunicação;Em uso
+EQP0132;Scanner de documentos Epson WorkForce - modelo SCN-117;Informática;TI;Em manutenção
+EQP0133;Torquímetro de estalo Gedore - modelo TRQ-113;Ferramenta manual;Manutenção;Em uso
+EQP0134;Computador desktop HP ProDesk - modelo DTP-115;Informática;TI;Em uso
+EQP0135;Jogo de chaves combinadas Tramontina PRO - modelo CHV-114;Ferramenta manual;Manutenção;Em manutenção
+EQP0136;Câmera de videoconferência Logitech - modelo CAM-110;Equipamento audiovisual;Comunicação;Em uso
+EQP0137;Soprador térmico Steinel - modelo SOP-112;Ferramenta elétrica;Manutenção;Disponível
+EQP0138;Furadeira de impacto DeWalt - modelo FUR-121;Ferramenta elétrica;Manutenção;Em manutenção
+EQP0139;Jogo de chaves combinadas Tramontina PRO - modelo CHV-111;Ferramenta manual;Manutenção;Em manutenção
+EQP0140;Impressora de etiquetas Dymo - modelo ETQ-118;Equipamento de escritório;Administrativo;Disponível
+EQP0141;Roteador corporativo MikroTik - modelo RTR-119;Infraestrutura de rede;TI;Em uso
+EQP0142;Caixa acústica para apresentação Frahm - modelo CAX-112;Equipamento audiovisual;Comunicação;Em uso
+EQP0143;Projetor multimídia Epson - modelo PRJ-113;Equipamento audiovisual;Comunicação;Disponível
+EQP0144;Monitor LED 27 polegadas Samsung - modelo M27-113;Informática;TI;Disponível
+EQP0145;Medidor de nível sonoro Fluke - modelo SOM-118;Equipamento de segurança;Segurança do Trabalho;Disponível
+EQP0146;Parafusadeira a bateria DeWalt - modelo PAR-113;Ferramenta elétrica;Manutenção;Em uso
+EQP0147;Chave de catraca reversível Sata - modelo CAT-121;Ferramenta manual;Manutenção;Em uso
+EQP0148;Martelete perfurador Bosch - modelo MRT-113;Ferramenta elétrica;Manutenção;Em uso
+EQP0149;Microfone de mesa USB Audio-Technica - modelo MIC-112;Equipamento audiovisual;Comunicação;Em uso
+EQP0150;Firewall de rede Sophos - modelo FWL-120;Infraestrutura de rede;TI;Disponível
+EQP0151;Multímetro digital Hikari - modelo MUL-115;Instrumento de medição;Elétrica;Disponível
+EQP0152;Câmera de videoconferência Logitech - modelo CAM-119;Equipamento audiovisual;Comunicação;Em manutenção
+EQP0153;Servidor de armazenamento NAS Synology - modelo NAS-110;Infraestrutura de rede;TI;Disponível
+EQP0154;Notebook corporativo Dell Latitude - modelo NTB-111;Informática;TI;Disponível
+EQP0155;Webcam para videoconferência Dell - modelo WBC-118;Informática;TI;Em uso
+EQP0156;Estação de trabalho Dell Precision - modelo WKS-113;Informática;TI;Disponível
+EQP0157;Projetor multimídia Epson - modelo PRJ-119;Equipamento audiovisual;Comunicação;Em uso
+EQP0158;Roteador corporativo TP-Link Omada - modelo RTR-112;Infraestrutura de rede;TI;Em uso
+EQP0159;Medidor de nível sonoro Fluke - modelo SOM-115;Equipamento de segurança;Segurança do Trabalho;Disponível
+EQP0160;Ponto de acesso Wi-Fi TP-Link Omada - modelo APW-114;Infraestrutura de rede;TI;Disponível
+EQP0161;Plastificadora de documentos Lassane - modelo PLA-114;Equipamento de escritório;Administrativo;Em uso
+EQP0162;Martelete perfurador DeWalt - modelo MRT-121;Ferramenta elétrica;Manutenção;Em uso
+EQP0163;Câmera de videoconferência Jabra - modelo CAM-121;Equipamento audiovisual;Comunicação;Em uso
+EQP0164;Osciloscópio portátil Keysight - modelo OSC-113;Instrumento de medição;Elétrica;Em uso
+EQP0165;Guilhotina de papel Menno - modelo GUI-116;Equipamento de escritório;Administrativo;Em uso
+EQP0166;Torquímetro de estalo Tramontina PRO - modelo TRQ-120;Ferramenta manual;Manutenção;Disponível
+EQP0167;Osciloscópio portátil Hantek - modelo OSC-118;Instrumento de medição;Elétrica;Disponível
+EQP0168;Medidor de nível sonoro Minipa - modelo SOM-113;Equipamento de segurança;Segurança do Trabalho;Disponível
+EQP0169;Soprador térmico Makita - modelo SOP-117;Ferramenta elétrica;Manutenção;Em uso
+EQP0170;Multímetro digital Minipa - modelo MUL-117;Instrumento de medição;Elétrica;Disponível
+EQP0171;Alicate universal isolado Gedore - modelo ALI-118;Ferramenta manual;Manutenção;Em uso
+EQP0172;Estação de trabalho Dell Precision - modelo WKS-110;Informática;TI;Em uso
+EQP0173;Martelete perfurador Makita - modelo MRT-114;Ferramenta elétrica;Manutenção;Em uso
+EQP0174;Medidor de nível sonoro Instrutherm - modelo SOM-114;Equipamento de segurança;Segurança do Trabalho;Disponível
+EQP0175;Medidor de nível sonoro Minipa - modelo SOM-119;Equipamento de segurança;Segurança do Trabalho;Em uso
+EQP0176;Detector portátil de gases Dräger - modelo GAS-121;Equipamento de segurança;Segurança do Trabalho;Em uso
+EQP0177;Impressora de etiquetas Zebra - modelo ETQ-120;Equipamento de escritório;Administrativo;Em uso
+EQP0178;Câmera de videoconferência Poly - modelo CAM-111;Equipamento audiovisual;Comunicação;Disponível
+EQP0179;Monitor LED 24 polegadas Samsung - modelo MON-121;Informática;TI;Em uso
+EQP0180;Alicate universal isolado Knipex - modelo ALI-110;Ferramenta manual;Manutenção;Disponível
+EQP0181;Roteador corporativo TP-Link Omada - modelo RTR-118;Infraestrutura de rede;TI;Disponível
+EQP0182;Serra circular Makita - modelo SRC-120;Ferramenta elétrica;Manutenção;Em uso
+EQP0183;Rádio comunicador profissional Hytera - modelo RAD-114;Equipamento de segurança;Segurança do Trabalho;Em uso
+EQP0184;Multímetro digital Fluke - modelo MUL-119;Instrumento de medição;Elétrica;Disponível
+EQP0185;Rádio comunicador profissional Motorola - modelo RAD-113;Equipamento de segurança;Segurança do Trabalho;Em uso
+EQP0186;Osciloscópio portátil Keysight - modelo OSC-119;Instrumento de medição;Elétrica;Disponível
+EQP0187;Notebook corporativo Acer TravelMate - modelo NTB-118;Informática;TI;Em uso
+EQP0188;Rádio comunicador profissional Motorola - modelo RAD-110;Equipamento de segurança;Segurança do Trabalho;Disponível
+EQP0189;Impressora de etiquetas Zebra - modelo ETQ-114;Equipamento de escritório;Administrativo;Em uso
+EQP0190;Furadeira de impacto Bosch - modelo FUR-111;Ferramenta elétrica;Manutenção;Em uso
+EQP0191;Plastificadora de documentos Lassane - modelo PLA-117;Equipamento de escritório;Administrativo;Disponível
+EQP0192;Impressora de etiquetas Dymo - modelo ETQ-121;Equipamento de escritório;Administrativo;Disponível
+EQP0193;Alicate amperímetro Hikari - modelo AMP-115;Instrumento de medição;Elétrica;Disponível
+EQP0194;Ponto de acesso Wi-Fi Aruba Instant On - modelo APW-112;Infraestrutura de rede;TI;Disponível
+EQP0195;Martelete perfurador DeWalt - modelo MRT-115;Ferramenta elétrica;Manutenção;Disponível
+EQP0196;Firewall de rede Cisco Meraki - modelo FWL-121;Infraestrutura de rede;TI;Em uso
+EQP0197;Câmera termográfica de inspeção Flir - modelo TER-113;Equipamento de segurança;Segurança do Trabalho;Disponível
+EQP0198;Monitor LED 24 polegadas Samsung - modelo MON-117;Informática;TI;Em uso
+EQP0199;Conjunto de soquetes Sata - modelo SOQ-112;Ferramenta manual;Manutenção;Em uso
+EQP0200;Monitor LED 27 polegadas Samsung - modelo M27-117;Informática;TI;Em uso
+EQP0201;Detector de tensão Fluke - modelo DET-119;Instrumento de medição;Elétrica;Em uso
+EQP0202;Roteador corporativo TP-Link Omada - modelo RTR-121;Infraestrutura de rede;TI;Em uso
+EQP0203;Ponto de acesso Wi-Fi TP-Link Omada - modelo APW-120;Infraestrutura de rede;TI;Em uso
+EQP0204;Serra tico-tico DeWalt - modelo TIC-115;Ferramenta elétrica;Manutenção;Em manutenção
+EQP0205;Detector portátil de gases MSA - modelo GAS-114;Equipamento de segurança;Segurança do Trabalho;Em uso
+EQP0206;Detector portátil de gases MSA - modelo GAS-117;Equipamento de segurança;Segurança do Trabalho;Em uso
+EQP0207;Chave de catraca reversível Tramontina PRO - modelo CAT-111;Ferramenta manual;Manutenção;Em uso
+EQP0208;Notebook corporativo Acer TravelMate - modelo NTB-110;Informática;TI;Disponível
+EQP0209;Estação de trabalho Dell Precision - modelo WKS-116;Informática;TI;Disponível
+EQP0210;Microfone de mesa USB Logitech - modelo MIC-111;Equipamento audiovisual;Comunicação;Disponível
+EQP0211;Firewall de rede Cisco Meraki - modelo FWL-118;Infraestrutura de rede;TI;Em manutenção
+EQP0212;Detector portátil de gases Honeywell - modelo GAS-116;Equipamento de segurança;Segurança do Trabalho;Em uso
+EQP0213;Detector portátil de gases Honeywell - modelo GAS-119;Equipamento de segurança;Segurança do Trabalho;Disponível
+EQP0214;Detector de tensão Minipa - modelo DET-117;Instrumento de medição;Elétrica;Em uso
+EQP0215;Firewall de rede Sophos - modelo FWL-111;Infraestrutura de rede;TI;Disponível
+EQP0216;Parafusadeira a bateria Bosch - modelo PAR-111;Ferramenta elétrica;Manutenção;Disponível
+EQP0217;Chave de catraca reversível Tramontina PRO - modelo CAT-120;Ferramenta manual;Manutenção;Em uso
+EQP0218;Switch gerenciável D-Link - modelo SWT-114;Infraestrutura de rede;TI;Em uso
+EQP0219;Esmerilhadeira angular Black+Decker - modelo ESM-110;Ferramenta elétrica;Manutenção;Em uso
+EQP0220;Webcam para videoconferência Dell - modelo WBC-112;Informática;TI;Disponível
+EQP0221;Multímetro digital Hikari - modelo MUL-118;Instrumento de medição;Elétrica;Disponível
+EQP0222;Jogo de chaves combinadas Sata - modelo CHV-112;Ferramenta manual;Manutenção;Disponível
+EQP0223;Serra tico-tico Makita - modelo TIC-120;Ferramenta elétrica;Manutenção;Disponível
+EQP0224;Rádio comunicador profissional Intelbras - modelo RAD-118;Equipamento de segurança;Segurança do Trabalho;Disponível
+EQP0225;Torquímetro de estalo Gedore - modelo TRQ-116;Ferramenta manual;Manutenção;Em uso
+EQP0226;Ponto de acesso Wi-Fi Ubiquiti UniFi - modelo APW-110;Infraestrutura de rede;TI;Em uso
+EQP0227;Alicate universal isolado Gedore - modelo ALI-112;Ferramenta manual;Manutenção;Em uso
+EQP0228;Detector portátil de gases MSA - modelo GAS-120;Equipamento de segurança;Segurança do Trabalho;Em uso
+EQP0229;Parafusadeira a bateria Makita - modelo PAR-120;Ferramenta elétrica;Manutenção;Disponível
+EQP0230;Impressora laser HP LaserJet - modelo IMP-116;Informática;TI;Disponível
+EQP0231;Plastificadora de documentos Menno - modelo PLA-113;Equipamento de escritório;Administrativo;Em uso
+EQP0232;Furadeira de impacto DeWalt - modelo FUR-117;Ferramenta elétrica;Manutenção;Em uso
+EQP0233;Roteador corporativo MikroTik - modelo RTR-116;Infraestrutura de rede;TI;Disponível
+EQP0234;Câmera de videoconferência Poly - modelo CAM-114;Equipamento audiovisual;Comunicação;Disponível
+EQP0235;Serra circular DeWalt - modelo SRC-115;Ferramenta elétrica;Manutenção;Disponível
+EQP0236;Impressora laser Canon i-SENSYS - modelo IMP-115;Informática;TI;Em uso
+EQP0237;Guilhotina de papel Cis - modelo GUI-118;Equipamento de escritório;Administrativo;Em uso
+EQP0238;Nobreak senoidal APC - modelo NOB-111;Informática;TI;Disponível
+EQP0239;Termômetro infravermelho Minipa - modelo TIR-120;Instrumento de medição;Elétrica;Em uso
+EQP0240;Scanner de documentos Fujitsu fi - modelo SCN-119;Informática;TI;Em uso
+EQP0241;Torquímetro de estalo Tramontina PRO - modelo TRQ-114;Ferramenta manual;Manutenção;Em uso
+EQP0242;Roteador corporativo Cisco - modelo RTR-120;Infraestrutura de rede;TI;Em uso
+EQP0243;Computador desktop HP ProDesk - modelo DTP-118;Informática;TI;Em uso
+EQP0244;Webcam para videoconferência Logitech - modelo WBC-116;Informática;TI;Em uso
+EQP0245;Câmera termográfica de inspeção Fluke - modelo TER-117;Equipamento de segurança;Segurança do Trabalho;Disponível
+EQP0246;Nobreak senoidal APC - modelo NOB-120;Informática;TI;Em uso
+EQP0247;Monitor LED 27 polegadas Dell UltraSharp - modelo M27-111;Informática;TI;Em uso
+EQP0248;Osciloscópio portátil Keysight - modelo OSC-116;Instrumento de medição;Elétrica;Em uso
+EQP0249;Encadernadora espiral Lassane - modelo ENC-113;Equipamento de escritório;Administrativo;Disponível
+EQP0250;Serra tico-tico Bosch - modelo TIC-116;Ferramenta elétrica;Manutenção;Disponível
+EQP0251;Servidor de armazenamento NAS QNAP - modelo NAS-114;Infraestrutura de rede;TI;Disponível
+EQP0252;Encadernadora espiral Mares - modelo ENC-121;Equipamento de escritório;Administrativo;Disponível
+EQP0253;Martelete perfurador Bosch - modelo MRT-119;Ferramenta elétrica;Manutenção;Disponível
+EQP0254;Chave de catraca reversível Gedore - modelo CAT-110;Ferramenta manual;Manutenção;Disponível
+EQP0255;Alicate universal isolado Knipex - modelo ALI-113;Ferramenta manual;Manutenção;Em uso
+EQP0256;Guilhotina de papel Cis - modelo GUI-115;Equipamento de escritório;Administrativo;Disponível
+EQP0257;Switch gerenciável Cisco - modelo SWT-110;Infraestrutura de rede;TI;Disponível
+EQP0258;Detector de tensão Fluke - modelo DET-116;Instrumento de medição;Elétrica;Em uso
+EQP0259;Furadeira de impacto Stanley - modelo FUR-110;Ferramenta elétrica;Manutenção;Em uso
+EQP0260;Webcam para videoconferência Dell - modelo WBC-121;Informática;TI;Em uso
+EQP0261;Monitor LED 24 polegadas AOC - modelo MON-114;Informática;TI;Em uso
+EQP0262;Soprador térmico Bosch - modelo SOP-116;Ferramenta elétrica;Manutenção;Disponível
+EQP0263;Dock station USB-C UGREEN - modelo DOC-110;Informática;TI;Disponível
+EQP0264;Encadernadora espiral Menno - modelo ENC-111;Equipamento de escritório;Administrativo;Disponível
+EQP0265;Martelete perfurador Makita - modelo MRT-120;Ferramenta elétrica;Manutenção;Em uso
+EQP0266;Detector de tensão Minipa - modelo DET-114;Instrumento de medição;Elétrica;Disponível
+EQP0267;Fragmentadora de papel Fellowes - modelo FRG-110;Equipamento de escritório;Administrativo;Disponível
+EQP0268;Scanner de documentos Canon imageFORMULA - modelo SCN-121;Informática;TI;Em uso
+EQP0269;Ponto de acesso Wi-Fi Aruba Instant On - modelo APW-121;Infraestrutura de rede;TI;Disponível
+EQP0270;Câmera termográfica de inspeção Hikmicro - modelo TER-121;Equipamento de segurança;Segurança do Trabalho;Em uso
+EQP0271;Parafusadeira a bateria Bosch - modelo PAR-119;Ferramenta elétrica;Manutenção;Disponível
+EQP0272;Câmera termográfica de inspeção Fluke - modelo TER-114;Equipamento de segurança;Segurança do Trabalho;Em uso
+EQP0273;Firewall de rede Fortinet FortiGate - modelo FWL-116;Infraestrutura de rede;TI;Disponível
+EQP0274;Fragmentadora de papel Menno - modelo FRG-120;Equipamento de escritório;Administrativo;Em uso
+EQP0275;Guilhotina de papel Lassane - modelo GUI-117;Equipamento de escritório;Administrativo;Em uso
+EQP0276;Monitor LED 24 polegadas LG - modelo MON-116;Informática;TI;Em uso
+EQP0277;Computador desktop Dell OptiPlex - modelo DTP-110;Informática;TI;Disponível
+EQP0278;Câmera termográfica de inspeção Hikmicro - modelo TER-118;Equipamento de segurança;Segurança do Trabalho;Disponível
+EQP0279;Rádio comunicador profissional Hytera - modelo RAD-111;Equipamento de segurança;Segurança do Trabalho;Em uso
+EQP0280;Chave de catraca reversível Sata - modelo CAT-118;Ferramenta manual;Manutenção;Disponível
+EQP0281;Firewall de rede Cisco Meraki - modelo FWL-112;Infraestrutura de rede;TI;Em uso
+EQP0282;Detector de tensão Hikari - modelo DET-118;Instrumento de medição;Elétrica;Em uso
+EQP0283;Osciloscópio portátil Tektronix - modelo OSC-120;Instrumento de medição;Elétrica;Em uso
+EQP0284;Switch gerenciável D-Link - modelo SWT-111;Infraestrutura de rede;TI;Em uso
+EQP0285;Parafusadeira a bateria DeWalt - modelo PAR-117;Ferramenta elétrica;Manutenção;Disponível
+EQP0286;Dock station USB-C Dell - modelo DOC-111;Informática;TI;Em uso
+EQP0287;Nobreak senoidal SMS - modelo NOB-113;Informática;TI;Em uso
+EQP0288;Furadeira de impacto Bosch - modelo FUR-115;Ferramenta elétrica;Manutenção;Disponível
+EQP0289;Parafusadeira a bateria Stanley - modelo PAR-114;Ferramenta elétrica;Manutenção;Em uso
+EQP0290;Guilhotina de papel Lassane - modelo GUI-111;Equipamento de escritório;Administrativo;Disponível
+EQP0291;Caixa acústica para apresentação JBL - modelo CAX-116;Equipamento audiovisual;Comunicação;Em uso
+EQP0292;Projetor multimídia BenQ - modelo PRJ-120;Equipamento audiovisual;Comunicação;Disponível
+EQP0293;Microfone de mesa USB Jabra - modelo MIC-113;Equipamento audiovisual;Comunicação;Em uso
+EQP0294;Fragmentadora de papel Aurora - modelo FRG-118;Equipamento de escritório;Administrativo;Em uso
+EQP0295;Caixa acústica para apresentação JBL - modelo CAX-119;Equipamento audiovisual;Comunicação;Em uso
+EQP0296;Chave de catraca reversível Gedore - modelo CAT-116;Ferramenta manual;Manutenção;Disponível
+EQP0297;Estação de trabalho HP Z - modelo WKS-117;Informática;TI;Disponível
+EQP0298;Encadernadora espiral Mares - modelo ENC-118;Equipamento de escritório;Administrativo;Em manutenção
+EQP0299;Furadeira de impacto Stanley - modelo FUR-118;Ferramenta elétrica;Manutenção;Disponível
+EQP0300;Fragmentadora de papel Aurora - modelo FRG-115;Equipamento de escritório;Administrativo;Em uso
+EQP0301;Estação de trabalho Dell Precision - modelo WKS-119;Informática;TI;Em uso
+EQP0302;Serra tico-tico Bosch - modelo TIC-113;Ferramenta elétrica;Manutenção;Disponível
+EQP0303;Ponto de acesso Wi-Fi Aruba Instant On - modelo APW-118;Infraestrutura de rede;TI;Em uso
+EQP0304;Switch gerenciável TP-Link JetStream - modelo SWT-121;Infraestrutura de rede;TI;Disponível
+EQP0305;Chave de catraca reversível Tramontina PRO - modelo CAT-117;Ferramenta manual;Manutenção;Disponível
+EQP0306;Alicate universal isolado Tramontina PRO - modelo ALI-117;Ferramenta manual;Manutenção;Em uso
+EQP0307;Detector de tensão Fluke - modelo DET-110;Instrumento de medição;Elétrica;Em uso
+EQP0308;Fragmentadora de papel Menno - modelo FRG-117;Equipamento de escritório;Administrativo;Em uso
+EQP0309;Monitor LED 27 polegadas AOC - modelo M27-110;Informática;TI;Disponível
+EQP0310;Microfone de mesa USB Logitech - modelo MIC-117;Equipamento audiovisual;Comunicação;Disponível
+EQP0311;Guilhotina de papel Menno - modelo GUI-110;Equipamento de escritório;Administrativo;Em uso
+EQP0312;Scanner de documentos Fujitsu fi - modelo SCN-110;Informática;TI;Em uso
+EQP0313;Caixa acústica para apresentação JBL - modelo CAX-113;Equipamento audiovisual;Comunicação;Disponível
+EQP0314;Servidor de armazenamento NAS Asustor - modelo NAS-115;Infraestrutura de rede;TI;Em uso
+EQP0315;Alicate amperímetro Minipa - modelo AMP-114;Instrumento de medição;Elétrica;Disponível
+EQP0316;Plastificadora de documentos Lassane - modelo PLA-111;Equipamento de escritório;Administrativo;Disponível
+EQP0317;Termômetro infravermelho Fluke - modelo TIR-113;Instrumento de medição;Elétrica;Em uso
+EQP0318;Alicate amperímetro Hikari - modelo AMP-121;Instrumento de medição;Elétrica;Disponível
+EQP0319;Multímetro digital Fluke - modelo MUL-116;Instrumento de medição;Elétrica;Em uso
+EQP0320;Guilhotina de papel Lassane - modelo GUI-114;Equipamento de escritório;Administrativo;Em uso
+EQP0321;Soprador térmico Steinel - modelo SOP-118;Ferramenta elétrica;Manutenção;Disponível
+EQP0322;Monitor LED 27 polegadas Samsung - modelo M27-121;Informática;TI;Disponível
+EQP0323;Plastificadora de documentos Menno - modelo PLA-119;Equipamento de escritório;Administrativo;Em uso
+EQP0324;Fragmentadora de papel Fellowes - modelo FRG-119;Equipamento de escritório;Administrativo;Em manutenção
+EQP0325;Câmera de videoconferência Jabra - modelo CAM-118;Equipamento audiovisual;Comunicação;Em manutenção
+EQP0326;Switch gerenciável Cisco - modelo SWT-116;Infraestrutura de rede;TI;Em uso
+EQP0327;Dock station USB-C Dell - modelo DOC-115;Informática;TI;Em uso
+EQP0328;Webcam para videoconferência Dell - modelo WBC-115;Informática;TI;Em uso
+EQP0329;Soprador térmico Makita - modelo SOP-120;Ferramenta elétrica;Manutenção;Disponível
+EQP0330;Esmerilhadeira angular Bosch - modelo ESM-115;Ferramenta elétrica;Manutenção;Disponível
+EQP0331;Notebook corporativo Lenovo ThinkPad - modelo NTB-120;Informática;TI;Disponível
+EQP0332;Chave de catraca reversível Sata - modelo CAT-112;Ferramenta manual;Manutenção;Disponível
+EQP0333;Microfone de mesa USB Audio-Technica - modelo MIC-118;Equipamento audiovisual;Comunicação;Em uso
+EQP0334;Projetor multimídia ViewSonic - modelo PRJ-118;Equipamento audiovisual;Comunicação;Disponível
+EQP0335;Microfone de mesa USB Audio-Technica - modelo MIC-121;Equipamento audiovisual;Comunicação;Em uso
+EQP0336;Dock station USB-C HP - modelo DOC-113;Informática;TI;Disponível
+EQP0337;Rádio comunicador profissional Intelbras - modelo RAD-112;Equipamento de segurança;Segurança do Trabalho;Disponível
+EQP0338;Monitor LED 27 polegadas Dell UltraSharp - modelo M27-119;Informática;TI;Em uso
+EQP0339;Esmerilhadeira angular Makita - modelo ESM-116;Ferramenta elétrica;Manutenção;Em manutenção
+EQP0340;Firewall de rede Sophos - modelo FWL-117;Infraestrutura de rede;TI;Em uso
+EQP0341;Detector de tensão Minipa - modelo DET-120;Instrumento de medição;Elétrica;Disponível
+EQP0342;Esmerilhadeira angular Bosch - modelo ESM-119;Ferramenta elétrica;Manutenção;Em uso
